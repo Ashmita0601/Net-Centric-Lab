@@ -1,0 +1,4 @@
+D:\csit 6th sem\lab\net\ChapterOne\ChapterOne\obj\Debug\net8.0\ChapterOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\csit 6th sem\lab\net\ChapterOne\ChapterOne\obj\Debug\net8.0\ChapterOne.AssemblyInfoInputs.cache
+D:\csit 6th sem\lab\net\ChapterOne\ChapterOne\obj\Debug\net8.0\ChapterOne.AssemblyInfo.cs
+D:\csit 6th sem\lab\net\ChapterOne\ChapterOne\obj\Debug\net8.0\ChapterOne.csproj.CoreCompileInputs.cache
